@@ -1,0 +1,40 @@
+body {
+  background-color: #06283D;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  color: #DFF6FF;
+  
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+p {
+  font-size: 2em;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.refresh-btn {
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  margin: 15%;
+  border-radius: 5%;
+  font-size: 2em;
+}
