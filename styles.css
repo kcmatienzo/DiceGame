@@ -23,7 +23,7 @@ h1 {
 p {
   font-size: 2em;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-family: arial, sans-serif;
 }
 
 img {
@@ -37,4 +37,24 @@ img {
   margin: 15%;
   border-radius: 5%;
   font-size: 2em;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr {
+  background-color: #dddddd;
+}
+
+.score {
+  visibility: hidden;
 }
